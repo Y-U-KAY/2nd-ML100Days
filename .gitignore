@@ -1,0 +1,9 @@
+
+data/application_test.csv
+*.csv
+*.jpg
+*.npy
+*.pkl
+*.json
+*.txt
+*.mat
